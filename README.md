@@ -1,4 +1,4 @@
-## Me chamo Pedro, e sou apaixonado por Tecnologia, Natureza, Arte e Pinguins 🙃
+## Sou apaixonado por Tecnologia, Natureza, Arte e Pinguins 🙃
 <div align="center">
   <a href="https://github.com/pm0ta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pm0ta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
